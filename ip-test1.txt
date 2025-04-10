@@ -1,5 +1,6 @@
 test 1 :
 masalah 1:
-
+phython
+java
 
 
