@@ -3,5 +3,8 @@ masalah 1:
 javascript
 react
 php
+phython
+java
+
 
 
